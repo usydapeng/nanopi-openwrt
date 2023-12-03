@@ -2,6 +2,8 @@
 # 更新日志
 ###### （如果没有特别说明，更新内容就是上游Lean和Lienol两位大佬的代码更新）
 
+## 2023-12-03
+
 ## 2021-09-26
 
 - 增加机型：[NanoPi R5S](https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5S/zh) 的支持，暂不支持autoupdate
